@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, RideboardActivity!</string>
     <string name="app_name">Rideboard</string>
+    <string name="un1">Username:</string>
+    <string name="pw1">Password:</string>
+    <string name="submit">Submit</string>
 
 </resources>
